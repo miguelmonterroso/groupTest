@@ -6,7 +6,7 @@
 
 /* Signup Form */
 
-	#signup-form {
+	.myform {
 		@include vendor('display', 'flex');
 		position: relative;
 
